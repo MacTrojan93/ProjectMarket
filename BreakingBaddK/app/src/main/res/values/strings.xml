@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BreakingBaddK</string>
+    <string name="detail_name">Name:\n%1s</string>
+    <string name="detail_occupation">Occupation:%1s</string>
+    <string name="detail_status">Status:%1s</string>
+    <string name="detail_nick">Nickname:%1s</string>
+    <string name="detail_season">Season:%1s</string>
+
+</resources>
